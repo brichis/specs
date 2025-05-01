@@ -23,9 +23,7 @@ rewarded with profit.
 
 ## About the OP Stack
 
-The OP Stack is a decentralized software stack maintained by the OP Stack that forms the backbone of blockchains like
-[OP Mainnet](https://explorer.optimism.io/) and [Base](https://base.org). The OP Stack is designed to be aggressively
-open-source — you are welcome to explore, modify, and extend the OP Stack to your heart's content.
+The [OP Stack](https://docs.optimism.io/) is the modular, open source, MIT-licensed development stack that powers the OP Mainnet, OP Chains, and, in the future, the Superchain. The OP Stack is maintained by the Optimism Collective.
 
 ## Site Navigation
 
